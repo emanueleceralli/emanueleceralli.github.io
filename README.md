@@ -1,7 +1,13 @@
-## Welcome to GitHub Pages
+# MEMOMYSTUFF (MMS)
+[website](http://www.github.com)
 
-You can use the [editor on GitHub](https://github.com/emanueleceralli/emanueleceralli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### TEAM COMPOSITION
+Ceralli Emanuele
+Genovese Luca
+Piviotti Matteo
+Plazzotta Federico
 
+----------------------------------
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
